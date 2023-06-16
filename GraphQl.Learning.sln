@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "by Elvis Trupja", "by Elvis Trupja", "{96B1F905-8508-4983-B0F5-956FB5D56CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyLearning", "EasyLearning\EasyLearning.csproj", "{B59C59CE-499C-4C12-B09F-F424556F44BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "by Jeremes Likness", "by Jeremes Likness", "{FE9D9545-7F0E-416D-85A2-178D38C082F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipesApp", "RecipesApp\RecipesApp.csproj", "{06CAD075-1C24-4A1B-A3BB-247D71D07EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B59C59CE-499C-4C12-B09F-F424556F44BC} = {96B1F905-8508-4983-B0F5-956FB5D56CE5}
+		{06CAD075-1C24-4A1B-A3BB-247D71D07EE2} = {FE9D9545-7F0E-416D-85A2-178D38C082F2}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59C59CE-499C-4C12-B09F-F424556F44BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59C59CE-499C-4C12-B09F-F424556F44BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59C59CE-499C-4C12-B09F-F424556F44BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59C59CE-499C-4C12-B09F-F424556F44BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CAD075-1C24-4A1B-A3BB-247D71D07EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CAD075-1C24-4A1B-A3BB-247D71D07EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CAD075-1C24-4A1B-A3BB-247D71D07EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CAD075-1C24-4A1B-A3BB-247D71D07EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
